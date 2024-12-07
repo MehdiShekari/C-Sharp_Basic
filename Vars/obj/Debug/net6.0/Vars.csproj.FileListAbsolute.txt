@@ -1,0 +1,15 @@
+E:\Mehdi\Projects\C#\Vars\bin\Debug\net6.0\Vars.exe
+E:\Mehdi\Projects\C#\Vars\bin\Debug\net6.0\Vars.deps.json
+E:\Mehdi\Projects\C#\Vars\bin\Debug\net6.0\Vars.runtimeconfig.json
+E:\Mehdi\Projects\C#\Vars\bin\Debug\net6.0\Vars.dll
+E:\Mehdi\Projects\C#\Vars\bin\Debug\net6.0\Vars.pdb
+E:\Mehdi\Projects\C#\Vars\obj\Debug\net6.0\Vars.csproj.AssemblyReference.cache
+E:\Mehdi\Projects\C#\Vars\obj\Debug\net6.0\Vars.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mehdi\Projects\C#\Vars\obj\Debug\net6.0\Vars.AssemblyInfoInputs.cache
+E:\Mehdi\Projects\C#\Vars\obj\Debug\net6.0\Vars.AssemblyInfo.cs
+E:\Mehdi\Projects\C#\Vars\obj\Debug\net6.0\Vars.csproj.CoreCompileInputs.cache
+E:\Mehdi\Projects\C#\Vars\obj\Debug\net6.0\Vars.dll
+E:\Mehdi\Projects\C#\Vars\obj\Debug\net6.0\refint\Vars.dll
+E:\Mehdi\Projects\C#\Vars\obj\Debug\net6.0\Vars.pdb
+E:\Mehdi\Projects\C#\Vars\obj\Debug\net6.0\Vars.genruntimeconfig.cache
+E:\Mehdi\Projects\C#\Vars\obj\Debug\net6.0\ref\Vars.dll
